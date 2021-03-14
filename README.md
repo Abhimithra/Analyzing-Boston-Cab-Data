@@ -11,9 +11,13 @@ Project Results:
 We got some interesting Insights such as
 • Temperature affects the average price per mile for both Uber and Lyft and it is positively
 correlated.
+
 • Uber pool is expensive than the Lyft shared ride.
+
 • Uber was expensive than Lyft in the month of November and December.
+
 • Average Price was high on Friday and followed by Saturday.
+
 • Time of a day and day of a week has effect on cab prices 
 
 Project Contributors: Syamala Anisha Katta
